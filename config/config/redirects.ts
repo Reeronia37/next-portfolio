@@ -5,11 +5,11 @@ interface IRedirect {
 }
 
 export const urls = {
-  discord: 'https://discord.gg/FpFxs8A9JH',
-  github: 'https://github.com/k4itrun',
-  youtube: 'https://youtube.com/@k4itrvn',
-  spotify: 'https://open.spotify.com/intl-es/artist/3EiLUeyEcA6fbRPSHkG5kb',
-  instagram: 'https://instagram.com/kobebryant',
+  discord: 'https://discord.gg/Bursa',
+  github: 'https://github.com/Reeronia37',
+  youtube: 'https://youtube.com/@realkramp',
+  spotify: 'https://open.spotify.com/intl-es/artist/realkramp',
+  instagram: 'https://instagram.com/realkramp',
 };
 
 export const redirects: IRedirect[] = [
