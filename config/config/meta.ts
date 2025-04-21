@@ -28,28 +28,28 @@ export interface IMeta {
 
 export const meta: IMeta = {
   version: '1.0.0',
-  title: 'k4itrun',
+  title: 'realkramp',
   description: 'Currently working on various projects. Stay tuned for updates.',
   shortDescription: 'Random developer from this planet.',
-  url: 'https://9ll.fun',
+  url: 'https://69691243.vercel.app',
   webhook: `${process.env.DISCORD_WEBHOOK_URL}`,
   accounts: {
     github: {
-      username: 'k4itrun',
+      username: 'realkramp',
       repo: 'next-portfolio',
-      url: `https://github.com/k4itrun`,
+      url: `https://github.com/Reeronia37`,
     },
     discord: {
-      username: '@k4itrun',
+      username: '@realkramp',
       server: '/discord',
-      id: /^(\d{17,20})$/.test(`${process.env.DISCORD_USER_ID}`) ? `${process.env.DISCORD_USER_ID}` : '1208098209063379065',
+      id: /^(\d{17,20})$/.test(`${process.env.DISCORD_USER_ID}`) ? `${process.env.DISCORD_USER_ID}` : '974291732638339162',
     },
     youtube: {
-      username: 'k4itrvn',
+      username: 'realkramp',
       url: '/youtube',
     },
     instagram: {
-      username: 'kobebryant',
+      username: 'realkramp',
       url: '/instagram',
     },
     spotify: {
